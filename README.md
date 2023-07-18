@@ -1,9 +1,12 @@
-# assignment_2f
+# GitHub Repository Link + Netlify Link
 
-### Website is located here: 
+### Github Repo is located here:
+https://github.com/jssuzuki1/assignment_2f
+
+### Netlify Website is located here: 
 https://aesthetic-sfogliatella-efd1e9.netlify.app/
 
-I use the theme Notrack: https://github.com/gevhaz/hugo-theme-notrack
+**I use the theme Notrack:** https://github.com/gevhaz/hugo-theme-notrack
 
 It's multi-page and fairly basic to grasp.
 
