@@ -7,7 +7,7 @@ I use the theme Notrack: https://github.com/gevhaz/hugo-theme-notrack
 
 It's multi-page and fairly basic to grasp.
 
-In short, I changed all of the content on every page. The content is humorous in tone. If you are wondering about what political commentary I'm trying to provide, I just make fun of the superiority complexes of technocrats and appropriate the language of revolution. It is not meant to be taken at all seriously.
+In short, I changed all of the content on every page. The content is superficial political/economic humor. It is not meant to be taken at all seriously.
 
 To run this file, you must run the following:
 
